@@ -37,7 +37,7 @@ I specialize in infrastructure automation, system reliability, and deployment pi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" />
-  <img src="[https://www.vectorlogo.zone/logos/huaweicloud/huaweicloud-icon.svg](https://www.vectorlogo.zone/logos/huawei/huawei-icon.svg)" alt="Huawei Cloud" width="60" />
+  <img src="https://www.vectorlogo.zone/logos/huawei/huawei-icon.svg" alt="Huawei Cloud" width="40" />
 </p>
 
 ---
